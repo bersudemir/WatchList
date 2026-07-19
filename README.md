@@ -29,7 +29,7 @@ WatchList, film ve dizileri takip etmek için geliştirilmiş basit bir React uy
 ![Liste](screenshots/liste.png)
 
 ### Güncelleme İşlemi
-![Güncelleme](screenshots/duzenleme.png)
+![Düzenleme](screenshots/duzenleme.png)
 
 ## Kurulum
 
